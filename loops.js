@@ -19,6 +19,6 @@ function doWhileLoop(arr){
 
   do{
     arr.pop()
-  }while(maybeTrue()&&arr.length>0)
+  }while(maybeTrue()&&arr.length>0);
 
 }
